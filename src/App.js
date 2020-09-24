@@ -5,7 +5,7 @@ import "./App.scss"
 import HeroWrapper from "./components/HeroWrapper"
 
 function App() {
-    return(
+    return (
         <div className="container">
             <HeroWrapper />
         </div>

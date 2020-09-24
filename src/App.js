@@ -2,10 +2,12 @@ import React from "react";
 
 import "./App.scss"
 
+import HeroWrapper from "./components/HeroWrapper"
+
 function App() {
     return(
         <div className="container">
-            <h1>Hello, world!</h1>
+            <HeroWrapper />
         </div>
     );
 }

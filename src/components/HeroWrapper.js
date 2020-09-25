@@ -1,12 +1,13 @@
 import React from "react";
 
 import Wrapper from "./Wrapper"
+import Header from "./Header"
 
 function HeroWrapper() {
     return (
         <div className="hero-wrapper">
             <Wrapper>
-                <h1>Hello, world!</h1>
+                <Header />
             </Wrapper>
         </div>
     );

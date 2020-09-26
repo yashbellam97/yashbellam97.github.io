@@ -7,7 +7,7 @@ import Intro from "./Intro"
 function HeroWrapper() {
     return (
         <div className="hero-wrapper">
-            <Wrapper>
+            <Wrapper className="wrapper">
                 <Header />
                 <Intro />
             </Wrapper>

@@ -1,17 +1,17 @@
-import androidLogo from "../images/logos/android-logo.svg";
-import cssLogo from "../images/logos/css-logo.svg";
-import elixirLogo from "../images/logos/elixir-logo.svg";
-import firebaseLogo from "../images/logos/firebase-logo.svg";
-import githubLogo from "../images/logos/github-logo.svg";
-import globeLogo from "../images/logos/globe-logo.svg";
-import htmlLogo from "../images/logos/html-logo.svg";
-import javaLogo from "../images/logos/java-logo.svg";
-import javascriptLogo from "../images/logos/javascript-logo.svg";
-import materialUILogo from "../images/logos/material-ui-logo.svg";
-import phoenixLogo from "../images/logos/phoenix-logo.svg";
-import postgresLogo from "../images/logos/postgres-logo.svg";
-import reactLogo from "../images/logos/react-logo.svg";
-import yCombinatorLogo from "../images/logos/y-combinator-logo.svg";
+import androidLogo from "./images/logos/android-logo.svg";
+import cssLogo from "./images/logos/css-logo.svg";
+import elixirLogo from "./images/logos/elixir-logo.svg";
+import firebaseLogo from "./images/logos/firebase-logo.svg";
+import githubLogo from "./images/logos/github-logo.svg";
+import globeLogo from "./images/logos/globe-logo.svg";
+import htmlLogo from "./images/logos/html-logo.svg";
+import javaLogo from "./images/logos/java-logo.svg";
+import javascriptLogo from "./images/logos/javascript-logo.svg";
+import materialUILogo from "./images/logos/material-ui-logo.svg";
+import phoenixLogo from "./images/logos/phoenix-logo.svg";
+import postgresLogo from "./images/logos/postgres-logo.svg";
+import reactLogo from "./images/logos/react-logo.svg";
+import yCombinatorLogo from "./images/logos/y-combinator-logo.svg";
 
 const projectsData = [
     {
@@ -147,3 +147,5 @@ const projectsData = [
         }
     }
 ]
+
+export default projectsData;

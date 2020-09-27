@@ -58,4 +58,13 @@ header {
     padding: 0 1.5em 2em;
     max-width: 1230px;
     margin: 0 auto;
+
+    .arrow {
+        height: 2em;
+        filter: invert(100%);
+    }
+
+    #left-arrow {
+        transform: rotateZ(180deg);
+    }
 }

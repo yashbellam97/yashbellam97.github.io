@@ -63,6 +63,11 @@ header {
     max-width: 1230px;
     margin: 0 auto;
 
+    h2 {
+        margin: 0 1em .5em;
+        text-align: initial;
+    }
+
     .arrow {
         height: 2em;
         filter: invert(100%);

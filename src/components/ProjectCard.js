@@ -19,7 +19,7 @@ function ProjectCard(props) {
                 <ul>
                     {technologyList}
                 </ul>
-                <h2>{props.projectDetails.projectName}</h2>
+                <h3>{props.projectDetails.projectName}</h3>
             </div>
             <div className="project-details">
                 <p>{props.projectDetails.projectDescription}</p>

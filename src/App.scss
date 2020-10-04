@@ -7,6 +7,7 @@
 body {
     background-color: #121212;
     color: white;
+    min-width: min-content;
 }
 
 a {
@@ -54,14 +55,18 @@ header {
     }
 }
 
+.projects-wrapper {
+    text-align: center;
+}
+
 .extended-wrapper {
-    padding: 0 1.5em 2em;
     max-width: 1230px;
     margin: 0 auto;
 
     .arrow {
         height: 2em;
         filter: invert(100%);
+        display: none;
     }
 
     #left-arrow {

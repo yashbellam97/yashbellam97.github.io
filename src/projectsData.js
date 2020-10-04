@@ -2,11 +2,10 @@ import androidLogo from "./images/logos/android-logo.svg";
 import cssLogo from "./images/logos/css-logo.svg";
 import elixirLogo from "./images/logos/elixir-logo.svg";
 import firebaseLogo from "./images/logos/firebase-logo.svg";
-import githubLogo from "./images/logos/github-logo.svg";
-import globeLogo from "./images/logos/globe-logo.svg";
 import htmlLogo from "./images/logos/html-logo.svg";
 import javaLogo from "./images/logos/java-logo.svg";
 import javascriptLogo from "./images/logos/javascript-logo.svg";
+import mapsLogo from "./images/logos/maps-logo.svg";
 import materialUILogo from "./images/logos/material-ui-logo.svg";
 import phoenixLogo from "./images/logos/phoenix-logo.svg";
 import postgresLogo from "./images/logos/postgres-logo.svg";
@@ -28,6 +27,10 @@ const projectsData = [
             {
                 technologyName: "Firebase",
                 technologyLogo: firebaseLogo
+            },
+            {
+                technologyName: "Google Places API",
+                technologyLogo: mapsLogo
             }
         ],
         projectName: "CongreGator",

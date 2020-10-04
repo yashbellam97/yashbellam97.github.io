@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="300"
    height="300"
-   viewBox="0 0 270 270"
+   viewBox="0 0 285 285"
    version="1.1"
    preserveAspectRatio="xMidYMid"
    id="svg8"
-   sodipodi:docname="Y_Combinator_logo.svg"
+   sodipodi:docname="y-combinator-logo.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata14">
@@ -44,7 +44,7 @@
      showgrid="false"
      scale-x="0.9"
      inkscape:zoom="0.921875"
-     inkscape:cx="128"
+     inkscape:cx="-42.847458"
      inkscape:cy="128"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -52,7 +52,7 @@
      inkscape:current-layer="svg8" />
   <g
      id="g6"
-     transform="translate(7,7)">
+     transform="translate(14.5,14.5)">
     <rect
        x="0"
        y="0"

@@ -7,27 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 600 600"
+   viewBox="0 0 582 582"
    version="1.1"
-   id="svg14"
-   sodipodi:docname="HTML5_logo_and_wordmark.svg"
+   id="svg12"
+   sodipodi:docname="html-logo.svg"
    width="300"
    height="300"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata20">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>HTML5 Logo</dc:title>
+        <dc:title>HTML5 Logo Badge</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs18" />
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,40 +39,36 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     id="namedview16"
+     id="namedview14"
      showgrid="false"
-     scale-x="2"
+     scale-x="1.9"
      inkscape:zoom="0.921875"
-     inkscape:cx="-172.25747"
-     inkscape:cy="241.67705"
+     inkscape:cx="-312.54453"
+     inkscape:cy="172.0946"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg12" />
   <title
-     id="title2">HTML5 Logo</title>
+     id="title2">HTML5 Logo Badge</title>
   <path
-     d="m 152.4,44.000001 h 23 v 22.8 h 21.2 v -22.8 h 23 v 69.000009 h -23 V 90.000001 h -21 V 113.00001 H 152.4 M 250,67.000001 h -20.3 v -23 h 63.7 v 23 H 273 v 46.000009 h -23 m 53.5,-69.000009 h 24.1 l 14.8,24.3 14.8,-24.3 h 24.1 v 69.000009 h -23 V 78.800001 L 342.2,103.6 326.1,78.800001 v 34.200009 h -22.6 m 89.2,-69.000009 h 23 v 46.2 h 32.6 v 22.800009 h -55.6"
+     d="M 103.5,492 62.5,32 h 451 l -41,460 -185,52"
      id="path4"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     style="fill:#e34f26" />
   <path
-     d="m 151.6,515 -33,-370.39999 H 481.4 L 448.4,514.8 299.7,556"
+     d="m 288.5,504 149,-41 35,-394 h -184"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#e44d26" />
+     style="fill:#ef652a" />
   <path
-     d="M 300,524.5 V 175.00001 H 448.3 L 420,491"
+     d="m 288.5,240 h -75 l -5,-58 h 80 v -56 h -1 -141 l 1,15 14,156 h 127 z m 0,147 h -1 l -63,-17 -4,-45 h -30 -26 l 7,89 116,32 h 1 z"
      id="path8"
-     inkscape:connector-curvature="0"
-     style="fill:#f16529" />
-  <path
-     d="m 186,220.3 h 114 v 45.4 h -64.2 l 4.2,46.5 h 60 v 45.3 H 198.4 m 2,22.8 H 246 l 3.2,36.3 50.8,13.6 v 47.4 l -93.2,-26"
-     id="path10"
      inkscape:connector-curvature="0"
      style="fill:#ebebeb" />
   <path
-     d="M 413.6,220.3 H 299.8 v 45.4 h 109.6 m -4.1,46.5 H 299.8 v 45.4 h 56 l -5.3,59 -50.7,13.6 v 47.2 l 93,-25.8"
-     id="path12"
+     d="m 287.5,240 v 57 h 70 l -7,73 -63,17 v 59 l 116,-32 1,-10 13,-149 2,-15 h -16 z m 0,-114 v 35 21 0 h 137 v 0 0 l 1,-12 3,-29 1,-15 z"
+     id="path10"
      inkscape:connector-curvature="0"
      style="fill:#ffffff" />
 </svg>

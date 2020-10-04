@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 43.5 43.5"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="Google_Maps_icon_(2020).svg"
    width="300"
    height="300"
-   version="1.1"
-   id="svg10"
-   sodipodi:docname="css-logo.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata16">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs14" />
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,34 +39,39 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     id="namedview12"
+     id="namedview14"
      showgrid="false"
-     scale-x="0.145"
-     inkscape:zoom="1.5733333"
-     inkscape:cx="-129.14808"
-     inkscape:cy="154.52688"
+     scale-x="0.4"
+     inkscape:zoom="0.8919123"
+     inkscape:cx="-0.64676028"
+     inkscape:cy="-26.384974"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg12" />
   <path
-     d="m 38.75,2.75 h -34 l 3,34 14,4 14,-4 z"
+     d="M 89,11 C 84.6,9.6 79.8,8.8 74.9,8.8 60.8,8.8 48.1,15.2 39.6,25.3 l 21.8,18.3 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#2062af;fill-opacity:1" />
+     style="fill:#1a73e8" />
   <path
-     d="m 21.75,5.75 v 31.9 l 11.2,-3.2 2.5,-28.7 z"
+     d="m 39.6,25.3 c -6.7,8 -10.8,18.4 -10.8,29.6 0,8.7 1.7,15.7 4.6,22 l 28,-33.3 z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#3c9cd7;fill-opacity:1" />
+     style="fill:#ea4335" />
   <path
-     d="m 30.85,10.75 h -9.1 v 4 h 4.9 l -0.3,4 h -4.6 v 4 h 4.4 l -0.3,4.5 -4.1,1.4 v 4.2 l 7.9,-2.6 0.7,-11.5 v 0 z"
+     d="m 75,37.3 c 9.8,0 17.7,7.9 17.7,17.7 0,4.3 -1.6,8.3 -4.2,11.4 0,0 13.9,-16.6 27.5,-32.7 C 110.4,22.9 100.7,14.7 89,11 L 61.4,43.6 c 3.3,-3.8 8.1,-6.3 13.6,-6.3"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
+     style="fill:#4285f4" />
   <path
-     d="m 21.75,10.75 v 4 h -8.9 l -0.3,-4 z m -4.6,8 0.2,4 h 4.4 v -4 z m 0.4,6 h -4 l 0.3,5.5 7.9,2.6 v -4.2 l -4.1,-1.4 z"
+     d="m 75,72.6 c -9.8,0 -17.7,-7.9 -17.7,-17.7 0,-4.3 1.5,-8.3 4.1,-11.3 l -28,33.3 c 4.8,10.6 12.8,19.2 21,29.9 L 88.5,66.3 c -3.3,3.9 -8.1,6.3 -13.5,6.3"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:#eeeeee" />
+     style="fill:#fbbc04" />
+  <path
+     d="m 87.9,118 c 15.4,-24.1 33.3,-35 33.3,-63 0,-7.7 -1.9,-14.9 -5.2,-21.3 l -61.6,73.1 c 2.6,3.4 5.3,7.3 7.9,11.3 9.4,14.5 6.8,23.1 12.8,23.1 6,0 3.4,-8.7 12.8,-23.2"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:#34a853" />
 </svg>

@@ -68,3 +68,56 @@ header {
         transform: rotateZ(180deg);
     }
 }
+
+.project-card {
+    text-align: initial;
+    display: inline-block;
+    margin: 1em;
+
+    .project-title {
+        width: 16em;
+        height: 5.5em;
+        background-color: #1f1f1f;
+        position: relative;
+        border-radius: 5px 5px 0 0;
+
+        ul {
+            position: absolute;
+            margin: .5em;
+            display: flex;
+        }
+
+        li img {
+            margin: .2em .1em 0;
+            width: 1.5em;
+        }
+
+        h2 {
+            position: absolute;
+            bottom: 0;
+            margin: .5em;
+        }
+    }
+
+    .project-details {
+        width: 16em;
+        height: 8em;
+        background-color: #3b3b3b;
+        border-radius: 0 0 5px 5px;
+        padding: 1em;
+        position: relative;
+
+        ul {
+            position: absolute;
+            margin: .5em;
+            bottom: 0;
+            right: 0;
+            display: flex;
+        }
+
+        li img {
+            margin: 0 .2em;
+            width: 2em;
+        }
+    }
+}

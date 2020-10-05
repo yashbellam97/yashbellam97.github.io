@@ -97,9 +97,13 @@ header {
             display: flex;
         }
 
-        li img {
+        li {
+            height: 1.5em;
             margin: .2em .1em 0;
-            width: 1.5em;
+
+            img {
+                height: inherit;
+            }
         }
 
         h3 {
@@ -125,10 +129,39 @@ header {
             display: flex;
         }
 
-        li img {
+        li {
             margin: 0 .2em;
-            width: 2em;
-            filter: invert(70%);
+
+            a {
+                height: 2em;
+                display: inline-block;
+
+                img {
+                    height: inherit;
+                    filter: invert(70%);
+                }
+            }
+        }
+    }
+}
+
+.skills-wrapper {
+    margin: 2em 0;
+    text-align: center;
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 2em 0;
+    }
+
+    li {
+        height: 4em;
+        margin: .5em;
+
+        img {
+            height: inherit;
         }
     }
 }

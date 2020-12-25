@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "../images/yb-logo-white.png"
+import logo from "../images/yb-logo.svg"
 
 function Header() {
     return (

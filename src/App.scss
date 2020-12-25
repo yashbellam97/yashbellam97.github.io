@@ -139,6 +139,10 @@ header {
                 img {
                     height: inherit;
                     filter: invert(70%);
+                    
+                    &:hover {
+                        filter: invert(100%);
+                    }
                 }
             }
         }

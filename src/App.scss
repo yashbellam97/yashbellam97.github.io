@@ -32,9 +32,10 @@ header {
 
     a {
         height: 2em;
-
-        img {
+        
+        #yb-logo {
             height: inherit;
+            filter: invert(100%);
         }
     }
 

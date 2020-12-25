@@ -6,12 +6,12 @@ function Header() {
     return (
         <header>
             <a href="#" className="logo">
-                <img id="yb-logo" src={logo} alt="YB logo"/>
+                <img id="yb-logo" src={logo} alt="YB logo" />
             </a>
             <nav>
                 <ul>
                     <li><a href="#">About</a></li>
-                    <li><a href="#">Projects</a></li>
+                    <li><a href="#projects">Projects</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>

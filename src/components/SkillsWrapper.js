@@ -19,7 +19,7 @@ function SkillsWrapper() {
 }
 
 function skillListGenerator() {
-    return skillsData.map((skill) => <li><img src={skill.skillLogo} alt={skill.skillName + " logo"} /></li>);
+    return skillsData.map((skill) => <li key={skill.skillName}><img src={skill.skillLogo} alt={skill.skillName + " logo"} /></li>);
 }
 
 export default SkillsWrapper;

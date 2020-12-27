@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&family=Roboto+Slab:wght@500&family=Roboto:wght@300&display=swap');
 
 * {
     box-sizing: border-box;
@@ -133,6 +133,8 @@ header {
             position: absolute;
             bottom: 0;
             margin: .5em;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 300;
         }
     }
 
@@ -143,6 +145,11 @@ header {
         border-radius: 0 0 5px 5px;
         padding: 1em;
         position: relative;
+
+        p {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+        }
 
         ul {
             position: absolute;

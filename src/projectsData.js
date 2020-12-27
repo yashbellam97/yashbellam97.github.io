@@ -64,7 +64,7 @@ const projectsData = [
             }
         ],
         projectName: "Personal Library",
-        projectDescription: "A web app which helps users keep track of their reading by adding, deleting, and marking books.",
+        projectDescription: "A web app which helps users keep track of their reading by adding and deleting books.",
         urls: {
             liveUrl: "https://yashbellam97.github.io/Personal-Library/",
             githubUrl: "https://github.com/yashbellam97/Personal-Library"

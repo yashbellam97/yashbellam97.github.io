@@ -90,16 +90,6 @@ header {
         margin: 0 1em .5em;
         text-align: initial;
     }
-
-    .arrow {
-        height: 2em;
-        filter: invert(100%);
-        display: none;
-    }
-
-    #left-arrow {
-        transform: rotateZ(180deg);
-    }
 }
 
 .project-card {

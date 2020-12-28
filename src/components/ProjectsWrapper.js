@@ -3,8 +3,6 @@ import React from "react";
 import Wrapper from "./Wrapper";
 import ProjectCard from "./ProjectCard"
 
-import arrow from "../images/arrow-icon.svg"
-
 import projectsData from "../projectsData"
 
 function ProjectsWrapper() {
@@ -13,11 +11,9 @@ function ProjectsWrapper() {
         <div id="projects" className="projects-wrapper">
             <Wrapper className={["extended-wrapper", "carousel-container"].join(" ")}>
                 <h2>My projects</h2>
-                <img src={arrow} id="left-arrow" className="arrow" alt="Move project cards to the right" />
                 <ul className="carousel">
                     {projectList}
                 </ul>
-                <img src={arrow} id="right-arrow" className="arrow" alt="Move project cards to the left" />
             </Wrapper>
         </div>
     );

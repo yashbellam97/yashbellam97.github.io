@@ -13,7 +13,7 @@ function Header() {
 
     return (
         <header>
-            <a href="#" className="logo">
+            <a href="/" className="logo">
                 <img id="yb-logo" src={logo} alt="YB logo" />
             </a>
             <nav className={classes.root}>

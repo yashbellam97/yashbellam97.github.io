@@ -19,7 +19,7 @@ function Header() {
             <nav className={classes.root}>
                 <ThemeProvider theme={darkTheme}>
                     <Button href="#projects" size="small">Projects</Button>
-                    <Button href="#" variant="contained" size="small" color="primary">Resume</Button>
+                    <Button href={process.env.PUBLIC_URL + '/Yaswanth_Bellam_Resume.pdf'} target="_blank" variant="contained" size="small" color="primary">Resume</Button>
                 </ThemeProvider>
             </nav>
         </header>

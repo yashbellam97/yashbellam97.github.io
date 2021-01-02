@@ -6,6 +6,7 @@ import Header from "./components/Header"
 import HeroWrapper from "./components/HeroWrapper"
 import ProjectsWrapper from "./components/ProjectsWrapper"
 import SkillsWrapper from "./components/SkillsWrapper"
+import Footer from "./components/Footer"
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
             <HeroWrapper />
             <ProjectsWrapper />
             <SkillsWrapper />
+            <Footer />
         </div>
     );
 }

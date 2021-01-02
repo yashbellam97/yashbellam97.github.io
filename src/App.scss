@@ -190,3 +190,37 @@ header {
         }
     }
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5em;
+    font-family: 'Roboto', sans-serif;
+
+    ul {
+        display: flex;
+    }
+
+    li {
+        margin: 0 .2em;
+
+        a {
+            height: 2.5em;
+            display: inline-block;
+
+            img {
+                height: inherit;
+                filter: brightness(0) saturate(100%) invert(72%) sepia(39%) saturate(0%) hue-rotate(235deg) brightness(91%) contrast(94%);
+                
+                &#linkedin-logo:hover {
+                    filter: none;
+                }
+
+                &#github-logo:hover {
+                    filter: invert(100%);
+                }
+            }
+        }
+    }
+}

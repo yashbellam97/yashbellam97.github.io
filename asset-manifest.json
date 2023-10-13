@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e856f860.chunk.css",
-    "main.js": "/static/js/main.1f5e004b.chunk.js",
-    "main.js.map": "/static/js/main.1f5e004b.chunk.js.map",
+    "main.css": "/static/css/main.8658d133.chunk.css",
+    "main.js": "/static/js/main.cdcff910.chunk.js",
+    "main.js.map": "/static/js/main.cdcff910.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4654ce48.js",
     "runtime-main.js.map": "/static/js/runtime-main.4654ce48.js.map",
-    "static/js/2.2a870db3.chunk.js": "/static/js/2.2a870db3.chunk.js",
-    "static/js/2.2a870db3.chunk.js.map": "/static/js/2.2a870db3.chunk.js.map",
+    "static/js/2.c730d257.chunk.js": "/static/js/2.c730d257.chunk.js",
+    "static/js/2.c730d257.chunk.js.map": "/static/js/2.c730d257.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dff41595a22493be4266d775e3340dd1.js": "/precache-manifest.dff41595a22493be4266d775e3340dd1.js",
+    "precache-manifest.a12f2186a476ac31940bc354e576b350.js": "/precache-manifest.a12f2186a476ac31940bc354e576b350.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e856f860.chunk.css.map": "/static/css/main.e856f860.chunk.css.map",
-    "static/js/2.2a870db3.chunk.js.LICENSE.txt": "/static/js/2.2a870db3.chunk.js.LICENSE.txt",
+    "static/css/main.8658d133.chunk.css.map": "/static/css/main.8658d133.chunk.css.map",
+    "static/js/2.c730d257.chunk.js.LICENSE.txt": "/static/js/2.c730d257.chunk.js.LICENSE.txt",
     "static/media/android-logo.svg": "/static/media/android-logo.05b7b7d9.svg",
     "static/media/c-logo.svg": "/static/media/c-logo.a216dd4f.svg",
     "static/media/c-sharp-logo.svg": "/static/media/c-sharp-logo.7352a999.svg",
@@ -26,6 +26,7 @@
     "static/media/java-logo.svg": "/static/media/java-logo.bd254ee8.svg",
     "static/media/javascript-logo.svg": "/static/media/javascript-logo.abafad44.svg",
     "static/media/kotlin-logo.svg": "/static/media/kotlin-logo.286ca904.svg",
+    "static/media/linkedin-logo.svg": "/static/media/linkedin-logo.f91d1641.svg",
     "static/media/maps-logo.svg": "/static/media/maps-logo.087a85e2.svg",
     "static/media/material-ui-logo.svg": "/static/media/material-ui-logo.a021e66a.svg",
     "static/media/phoenix-logo.svg": "/static/media/phoenix-logo.317f78b6.svg",
@@ -39,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4654ce48.js",
-    "static/js/2.2a870db3.chunk.js",
-    "static/css/main.e856f860.chunk.css",
-    "static/js/main.1f5e004b.chunk.js"
+    "static/js/2.c730d257.chunk.js",
+    "static/css/main.8658d133.chunk.css",
+    "static/js/main.cdcff910.chunk.js"
   ]
 }
